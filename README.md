@@ -1,5 +1,5 @@
 # Random
-A method to get random number by Kotlin,terribly slow
+A strange method to get random number by Kotlin,terribly slow
 
 here's the output of the 100,000 time test(see "test.kt"):
 
